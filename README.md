@@ -2,10 +2,10 @@
 Roast Pilot is a mobile application and hardware device used to control an RK Drum gas grill coffee roaster
 
 **Current Android Debug Version: 05/24/2025**
-[co.elitetek.roastpilot-Signed_2025-05-24.apk](https://1drv.ms/u/c/a294ff4c03d24d2c/EUQkcnpCbCxCqPmWalZynOIBmH1ufmTw42e86u2u6F0HYg?e=l9v14f)
+[co.elitetek.roastpilot-Signed_2025-05-26.apk](https://1drv.ms/u/c/a294ff4c03d24d2c/ESPfIJ3MT9VLigQI4CJxLGMB5L7eh1yc0GLO78y52QBwnQ?e=uyCFvv)
 
 **Current Roast Pilot Main Unit Version: 05/24/2025**
-[RoastPilot-Main_2025-05-25.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/EWDKYNYhrUNBh_MOi9FNmgQB5wap5k7Wb5HuxQ_jN0yvrQ?e=ALHq6z)
+[RoastPilot-Main_2025-05-26.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/EUaEVTSu-5VCmjr1WeyB8DoBSkDd770Y-vQLkqBD2jLaCA?e=zc2wxI)
 
 **Current Roast Pilot Bean Temp Version: 05/24/2025**
-[RoastPilot-BT+2025-05-24.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/EZnTrh6jDo5LsTthN6r6ZBoBobd63AevxFFxHCioGU4a_Q?e=2eTzBA)
+[RoastPilot-BT_2025-05-26.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/EbZ2VZf3e0BGqSTqaHuAsH8BynrS3OA9lJng20NDs5XoAw?e=YoYK6P)

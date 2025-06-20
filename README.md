@@ -1,6 +1,9 @@
 # Roast Pilot
 Roast Pilot is a mobile application and hardware device used to control an RK Drum gas grill coffee roaster
 
+**iOS Testing**
+Use the TestFlight App from the App Store
+
 **Current Android Internal Testing Link:**
 [RoastPilot-Android-Internal](https://play.google.com/apps/internaltest/4700993022144842394)
 

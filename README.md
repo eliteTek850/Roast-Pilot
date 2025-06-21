@@ -10,5 +10,5 @@ Use the TestFlight App from the App Store
 **Current Roast Pilot Main Unit Version: 05/26/2025**
 [RoastPilot-Main_2025-05-26.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/EUaEVTSu-5VCmjr1WeyB8DoBSkDd770Y-vQLkqBD2jLaCA?e=zc2wxI)
 
-**Current Roast Pilot Bean Temp Version: 05/26/2025**
-[RoastPilot-BT_2025-05-26.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/EbZ2VZf3e0BGqSTqaHuAsH8BynrS3OA9lJng20NDs5XoAw?e=tEvqyb)
+**Current Roast Pilot Bean Temp Version: 06/20/2025**
+[RoastPilot-BT_2025-06-20.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/EdeNpW4aGyhKp5Ryp6CZcOcB7sCnKUqb42bL144RaRA5nQ?e=jxcAeC)

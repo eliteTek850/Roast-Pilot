@@ -10,8 +10,8 @@ Use the TestFlight App from the App Store
 
 
 
-**Current Roast Pilot Main Unit Version: 06/23/2025**
-[FW_RoastPilot_Main_2025-06-24.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/ETzPKAy-ha5BlT9ZouWjFmkB1pysmOnZs2W-GmvON-EdZA?e=4GykFE)
+**Current Roast Pilot Main Unit Version: 06/25/2025**
+[FW_RoastPilot-Main_2025-05-25.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/EUaEVTSu-5VCmjr1WeyB8DoBSkDd770Y-vQLkqBD2jLaCA?e=vX3uWZ)
 
 
 

@@ -11,13 +11,15 @@ Use the TestFlight App from the App Store
 
 
 **Current Roast Pilot Main Unit Version: 07/02/2025**
-[FW_RoastPilot-Main_2025-07-02.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/Eb7htKBpE5FOpPlSROUSfMgBebXSnuHOf0pOPdQ6kPWmJw?e=thcu3Z)
+[FW_RoastPilot-Main_2025-07-03.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/ETbZr87l_v1Ej7_n2AGUCa8BozVvmM_t4mo0MFxhTofM_A?e=BzR0fl)
 
 
 
 **Current Roast Pilot Bean Temp Version: 06/20/2025**
 Firmware:
 [FW_RoastPilot-BT_2025-06-22.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/EdeNpW4aGyhKp5Ryp6CZcOcB7sCnKUqb42bL144RaRA5nQ?e=jxcAeC)
+
+
 
 SPIFFS Filesystem:
 [SPIFFS_RoastPilot-BT_2025-06-22.bin](https://1drv.ms/u/c/a294ff4c03d24d2c/Ea-EyDWBfDpBi05GQCEOndEBSFnBgj4kgcXtSVKTF9tNbw?e=7FLHBF)
